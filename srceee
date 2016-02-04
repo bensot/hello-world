@@ -5,4 +5,5 @@ echo -n "Name: "
 read insert
 echo "Hello $insert"
 read -s -n 1
+clear
 exit
