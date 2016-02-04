@@ -1,0 +1,8 @@
+#!bin\bsh\
+clear
+
+echo -n "Name: "
+read insert
+echo "Hello $insert"
+read -s -n 1
+exit
